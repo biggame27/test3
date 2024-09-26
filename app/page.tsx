@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <div className="flex flex-col">
-        Hi
+        Hi Lol
         <Bye />
       </div>
     </>
