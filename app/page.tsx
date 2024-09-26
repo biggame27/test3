@@ -1,10 +1,14 @@
+import Bye from '@/components/bye'
 import React from 'react'
 
 const Home = () => {
   return (
-    <div>
-      hi
-    </div>
+    <>
+      <div className="flex flex-col">
+        Hi
+        <Bye />
+      </div>
+    </>
   )
 }
 
